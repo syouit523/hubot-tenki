@@ -1,0 +1,22 @@
+{
+  "name": "hubot-tenki",
+  "version": "1.0.0",
+  "description": "今から晴れるよ",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syouit523/hubot-tenki.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "syouit523",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syouit523/hubot-tenki"
+  },
+  "homepage": "https://github.com/syouit523/hubot-tenki"
+}
