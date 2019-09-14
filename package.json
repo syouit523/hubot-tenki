@@ -1,6 +1,6 @@
 {
   "name": "hubot-tenki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "今から晴れるよ",
   "main": "index.coffee",
   "scripts": {
