@@ -1,7 +1,7 @@
 {
   "name": "hubot-tenki",
-  "version": "1.0.1",
-  "description": "今から晴れるよ",
+  "version": "1.0.2",
+  "description": "お前に天気はこねぇよ",
   "main": "index.coffee",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
