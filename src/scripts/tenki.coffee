@@ -1,8 +1,8 @@
 # Description:
-#  今から晴れるよ
+#  今日の天気
 #
 # Commands:
-#   今から晴れるよ
+#   今日の天気
 #
 # Author:
 #   - syouit523
